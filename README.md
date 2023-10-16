@@ -1,9 +1,9 @@
 #Cloud Assignment 1
-Create a user with your name /br
-. set an expiry date of 2weeks for the user
-. prompt the user to change their password on login
-. attach the user to a group called altschool
-. allow altschool group to be able to run only cat command on /etc/
+Create a user with your name.
+. set an expiry date of 2weeks for the user.
+. prompt the user to change their password on login.
+. attach the user to a group called altschool.
+. allow altschool group to be able to run only cat command on /etc/.
 . create another user. make sure that this user doesn't have a home directory.
 
 
