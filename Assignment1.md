@@ -18,8 +18,3 @@ Create a user with your name <br>
 
 4. Create another user without a home directory
 <img width="469" alt="user with no homedir" src="https://github.com/kentobias132/AltschCloud-assignment/assets/68740749/3526b4a7-bb07-4803-ae8a-a5ce2660a98d">
-
-
-# Cloud Assignment2 
-With explanation, write out fifteen (15) file operators
-<img width="469" alt="Capture" src="https://github.com/kentobias132/AltschCloud-assignment/assets/68740749/ae9040a9-78a8-4731-a7c9-7deeb40d75f3">
