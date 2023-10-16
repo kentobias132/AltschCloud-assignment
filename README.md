@@ -1,5 +1,5 @@
 #Cloud Assignment 1
-Create a user with your name 
+Create a user with your name /br
 . set an expiry date of 2weeks for the user
 . prompt the user to change their password on login
 . attach the user to a group called altschool
